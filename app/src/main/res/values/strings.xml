@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">finalsModel</string>
+
+    <!--========================== Home ==========================-->
+    <string name="homUnTv"> User Name:  </string>
+    <string name="homUnEt">   </string>
+    <string name="homPwTv"> Password:  </string>
+    <string name="homPwEt">   </string>
+    <string name="homLogBtn">Login</string>
+    <string name="homRegBtn">Register</string>
+
+    <!--==================== Profile Management ==================-->
+    <string name="profMgtUnTv"> User Name:  </string>
+    <string name="profMgtUnEt"> </string>
+    <string name="profMgtDobTv"> Date of Birth:  </string>
+    <string name="profMgtDobEt"> </string>
+    <string name="profMgtPwTv"> Password:  </string>
+    <string name="profMgtPwEt"> </string>
+    <string name="profMgtGenTv"> Gender:  </string>
+    <string name="profMgtRb"> </string>
+    <string name="profMgtRb1"> Male </string>
+    <string name="profMgtRb2"> Female </string>
+    <string name="profMgtBtn"> Update Profile </string>
+
+    <!--===================== Edit Profile ===================-->
+    <string name="EdProfUnTv"> User Name:  </string>
+    <string name="EdProfUnEt"> </string>
+    <string name="EdProfDobTv"> Date of Birth:  </string>
+    <string name="EdProfDobEt"> </string>
+    <string name="EdProfPwTv"> Password:  </string>
+    <string name="EdProfPwEt"> </string>
+    <string name="EdProfGenTv"> Gender:  </string>
+    <string name="EdProfRb"> </string>
+    <string name="EdProfRb1"> Male </string>
+    <string name="EdProfRb2"> Female </string>
+    <string name="EdProfEditBtn">Edit</string>
+    <string name="EdProfDelBtn">Delete</string>
+    <string name="EdProfSearBtn">Search</string>
+
+</resources>
